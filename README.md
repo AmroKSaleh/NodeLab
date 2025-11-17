@@ -3,7 +3,6 @@
 [Image of a circuit diagram or Python logo]
 
 [![PyPI Version](https://img.shields.io/pypi/v/nodelab.svg)](https://pypi.org/project/nodelab/)
-[![Build Status](https://img.shields.io/travis/com/YOUR_USERNAME/NodeLab.svg)](https://travis-ci.com/YOUR_USERNAME/NodeLab)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A versatile Python library for electronics engineers, students, and hobbyists to perform circuit analysis, simulations, and complex electronics calculations with ease.
