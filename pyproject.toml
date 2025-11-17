@@ -23,3 +23,10 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/AmroKSaleh/NodeLab"
 Issues = "https://github.com/AmroKSaleh/NodeLab/issues"
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "ruff",
+]
