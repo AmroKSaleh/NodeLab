@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatch-vcs"]
+build-backend = "hatchling.build"
+
+[project]
+name = "NodeLab"
+version = "0.0.1"
+authors = [
+  { name = "AmroKSaleh", email = "amro@jameedium.com" },
+]
+description = "Python library for electronics calculations and circuit simulation."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Developers",
+]
+
+[project.urls]
+Homepage = "https://github.com/AmroKSaleh/NodeLab"
+Issues = "https://github.com/AmroKSaleh/NodeLab/issues"
