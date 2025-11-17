@@ -1,7 +1,5 @@
 # NodeLab
 
-[Image of a circuit diagram or Python logo]
-
 [![PyPI Version](https://img.shields.io/pypi/v/nodelab.svg)](https://pypi.org/project/nodelab/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,3 +25,41 @@ Install `NodeLab` easily using pip:
 ```bash
 pip install nodelab
 ```
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place. Any contributions you make are greatly appreciated.
+
+Fork the Project
+
+Create your Feature Branch
+
+```bash
+git checkout -b feature/AmazingFeature
+```
+
+Commit your Changes
+
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+
+Push to the Branch
+
+```bash
+git push origin feature/AmazingFeature
+```
+
+Open a Pull Request
+
+Please also feel free to open an issue with bugs or feature requests.
+
+## 📄 License
+
+Distributed under the MIT License. See LICENSE file for more information.
+
+## 📧 Contact
+
+AmroKSaleh - @AmroKSaleh - [Email](mailto:Amro@jameedium.com)
+
+Project Link: [https://github.com/AmroKSaleh/NodeLab](https://github.com/AmroKSaleh/NodeLab)
